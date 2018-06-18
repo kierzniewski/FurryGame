@@ -18,7 +18,7 @@ section#score {
 }
 
 #board  > div {    
-  border: 1px solid black;
+  border: 2px solid navy;
   float: left;
   width: 64px;
   height: 64px;
@@ -41,7 +41,7 @@ section#score div {
 
 
 .furry {
-  background-image: url('../images/furry.png');
+  background-image: url('../images/pacman.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -73,4 +73,11 @@ section#over pre {
 
 .invisible {
   display: none;
+}
+
+.gameover{
+  padding: 7px;
+  font-size: 50px;
+  color: white;
+  background-color: navy;
 }
