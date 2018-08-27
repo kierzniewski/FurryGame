@@ -1,2 +1,2 @@
 
-![](images/furrygame.png)
+![](images/furry.png)
